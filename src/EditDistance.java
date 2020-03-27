@@ -30,7 +30,11 @@
 *
 *
 *
-* Notes: Current implementation does not account for capitals. Which is purposeful.
+* Notes:
+* * Current implementation does not account for capitals. Which is purposeful.
+* * There are many edit  distances, this one is known as Levenshtein distance.
+* * For more information :
+*      http://www.youtube.com/watch?v=CB425OsE4Fo
 *
 * */
 

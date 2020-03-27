@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b45447c-e725-46df-861d-4939affc6b24" name="Default Changelist" comment="" />
+    <list default="true" id="8b45447c-e725-46df-861d-4939affc6b24" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EditDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EditDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +21,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1ZBOG34UTvY5LzLlVlAzSY5pBzq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,6 +36,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../independent" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -81,22 +90,34 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="529" y="213" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1600.860@0.0.1600.860" timestamp="1584309036568" />
-    <state width="1557" height="247" key="GridCell.Tab.0.bottom" timestamp="1584312993958">
+    <state x="580" y="186" key="FileChooserDialogImpl" timestamp="1585149693633">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="247" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1584312993958" />
-    <state width="1557" height="247" key="GridCell.Tab.0.center" timestamp="1584312993958">
+    <state x="580" y="186" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1585149693633" />
+    <state width="1557" height="247" key="GridCell.Tab.0.bottom" timestamp="1584316816473">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="247" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1584312993958" />
-    <state width="1557" height="247" key="GridCell.Tab.0.left" timestamp="1584312993958">
+    <state width="1557" height="247" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1584316816473" />
+    <state width="1557" height="247" key="GridCell.Tab.0.center" timestamp="1584316816473">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="247" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1584312993958" />
-    <state width="1557" height="247" key="GridCell.Tab.0.right" timestamp="1584312993958">
+    <state width="1557" height="247" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1584316816473" />
+    <state width="1557" height="247" key="GridCell.Tab.0.left" timestamp="1584316816138">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="247" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1584312993958" />
+    <state width="1557" height="247" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1584316816138" />
+    <state width="1557" height="247" key="GridCell.Tab.0.right" timestamp="1584316816473">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="247" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1584316816473" />
+    <state x="280" y="5" key="SettingsEditor" timestamp="1585312629322">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="280" y="5" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1585312629322" />
+    <state x="496" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1585149211332">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="496" y="255" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1585149211332" />
     <state x="757" y="281" width="672" height="677" key="run.anything.popup" timestamp="1584312974268">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
