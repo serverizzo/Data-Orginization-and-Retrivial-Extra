@@ -1,4 +1,4 @@
-/*
+package EditDistance;/*
 * How it works:
 * Goal: Dynamically build (bottom-up approach) the distance between two strings.
 *

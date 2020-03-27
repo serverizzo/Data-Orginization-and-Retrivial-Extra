@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b45447c-e725-46df-861d-4939affc6b24" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kTable/KTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kTable/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EditDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EditDistance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EditDistance/EditDistance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EditDistance/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EditDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EditDistance/EditDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EditDistance/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +41,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../independent" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -46,23 +52,51 @@
       <command value="main abc def" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="EditDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EditDistance" />
+      <option name="MAIN_CLASS_NAME" value="EditDistance.EditDistance" />
+      <module name="EditDistance" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kTable.KTable" />
+      <module name="EditDistance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kTable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EditDistance.Main" />
       <module name="EditDistance" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="MAIN_CLASS_NAME" value="kTable.Main" />
       <module name="EditDistance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kTable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.KTable" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.EditDistance" />
       </list>
@@ -94,22 +128,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="186" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1585149693633" />
-    <state width="1557" height="247" key="GridCell.Tab.0.bottom" timestamp="1584316816473">
+    <state width="1557" height="198" key="GridCell.Tab.0.bottom" timestamp="1585315735373">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="247" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1584316816473" />
-    <state width="1557" height="247" key="GridCell.Tab.0.center" timestamp="1584316816473">
+    <state width="1557" height="198" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1585315735373" />
+    <state width="1557" height="198" key="GridCell.Tab.0.center" timestamp="1585315735373">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="247" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1584316816473" />
-    <state width="1557" height="247" key="GridCell.Tab.0.left" timestamp="1584316816138">
+    <state width="1557" height="198" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1585315735373" />
+    <state width="1557" height="198" key="GridCell.Tab.0.left" timestamp="1585315735373">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="247" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1584316816138" />
-    <state width="1557" height="247" key="GridCell.Tab.0.right" timestamp="1584316816473">
+    <state width="1557" height="198" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1585315735373" />
+    <state width="1557" height="198" key="GridCell.Tab.0.right" timestamp="1585315735373">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="247" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1584316816473" />
+    <state width="1557" height="198" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1585315735373" />
     <state x="280" y="5" key="SettingsEditor" timestamp="1585312629322">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
