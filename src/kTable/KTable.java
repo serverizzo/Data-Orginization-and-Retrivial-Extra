@@ -1,7 +1,9 @@
 package kTable;
 
+import java.io.File;
 import java.util.Hashtable;
 import java.util.LinkedList;
+import java.util.Scanner;
 import java.util.Vector;
 
 public class KTable {
@@ -22,7 +24,36 @@ public class KTable {
             KTable.put(KKeys.get(i), new LinkedList<String>());
         }
 
-        System.out.println(KTable);
+//        Test
+//        System.out.println(KTable);
+
+        String temp;
+
+//        reading in file
+        try{
+            File dic = new File("src/kTable/d2.txt");
+            Scanner s = new Scanner(dic);
+            while (s.hasNextLine()){
+                temp = s.next();
+                for(int i = 0; i < KKeys.size(); i++){
+                    if(temp.contains(KKeys.get(i))){
+                        KTable.get(KKeys.get(i)).add(temp);
+                    }
+                }
+            }
+            s.close();
+        }
+        catch (Exception e){
+            System.out.println("Error in ConstructKTable: ");
+            System.out.println("            " + e);
+        }
+
+
+        // Test
+        for (int i = 0; i < KKeys.size(); i++){
+            System.out.println(KKeys.get(i) + "   " + KTable.get(KKeys.get(i)));
+        }
+
 
     }
 
