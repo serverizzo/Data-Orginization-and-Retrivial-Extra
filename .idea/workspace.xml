@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b45447c-e725-46df-861d-4939affc6b24" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kTable/KTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kTable/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kTable/dictionary.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kTable/readme.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EditDistance/EditDistance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EditDistance/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EditDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EditDistance/EditDistance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EditDistance/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EditDistance/kTable/KTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EditDistance/kTable/KTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EditDistance/kTable/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EditDistance/kTable/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kTable/KTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kTable/KTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kTable/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kTable/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,10 +41,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../independent" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/kTable" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Edward\IdeaProjects\EditDistance\src\kTable" />
+    </key>
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
@@ -128,22 +132,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="186" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1585149693633" />
-    <state width="1557" height="198" key="GridCell.Tab.0.bottom" timestamp="1585315735373">
+    <state width="1557" height="197" key="GridCell.Tab.0.bottom" timestamp="1585317478465">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="198" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1585315735373" />
-    <state width="1557" height="198" key="GridCell.Tab.0.center" timestamp="1585315735373">
+    <state width="1557" height="197" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1585317478465" />
+    <state width="1557" height="197" key="GridCell.Tab.0.center" timestamp="1585317478465">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="198" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1585315735373" />
-    <state width="1557" height="198" key="GridCell.Tab.0.left" timestamp="1585315735373">
+    <state width="1557" height="197" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1585317478465" />
+    <state width="1557" height="197" key="GridCell.Tab.0.left" timestamp="1585317478465">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="198" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1585315735373" />
-    <state width="1557" height="198" key="GridCell.Tab.0.right" timestamp="1585315735373">
+    <state width="1557" height="197" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1585317478465" />
+    <state width="1557" height="197" key="GridCell.Tab.0.right" timestamp="1585317478465">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="198" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1585315735373" />
+    <state width="1557" height="197" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1585317478465" />
     <state x="280" y="5" key="SettingsEditor" timestamp="1585312629322">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

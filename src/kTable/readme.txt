@@ -1,0 +1,1 @@
+dictionary.txt was taken from http://www.gwicks.net/dictionaries.htm
